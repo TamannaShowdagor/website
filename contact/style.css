@@ -1,0 +1,44 @@
+
+body{
+    background-color: #f9f9ff;
+}
+.contact{
+    color: white;
+    background-color:blueviolet;
+    text-align: center;
+}
+
+.mail{
+    text-decoration: none;
+}
+#send{
+    color: #ffffff;
+    background-color: #8490ff;
+    padding: 10px 25px;
+    font-weight: 800;
+    text-decoration: none;
+    
+    
+}
+.mas{
+    width: 81.5%;
+    display: flex;
+    justify-content: right;
+}
+.index{
+    height: 30px;
+    width: 80%;
+    margin-bottom: 20px;
+    box-shadow: inset;
+    padding: 10px;
+    border: 2px solid grey;
+    background-color: #ffffff;
+}
+
+#massage{
+    padding: 60px 10px ;
+}
+#send:hover{
+    color:rgb(158, 52, 252);
+    background-color:#ffffff;
+}
